@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "462692334604",
+    "firebase_url": "https://dicard-d6915.firebaseio.com",
+    "project_id": "dicard-d6915",
+    "storage_bucket": "dicard-d6915.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:462692334604:android:d909138c7468a82a",
+        "android_client_info": {
+          "package_name": "jtsingla.developer.app.dicard"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "462692334604-lek9d1qvfbs60fqlrvfa9o0ufpjrsev4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBU2HKStXO1R5keUYybqWXc1HnPmy9UvAo"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
